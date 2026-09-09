@@ -1,6 +1,6 @@
 # UniMeet proposal & delivery workflow
 
-This private repository contains the UniMeet proposal and an illustrative development workflow prepared by Giuseppe Castro.
+This repository contains the UniMeet proposal and an illustrative development workflow prepared by Giuseppe Castro.
 
 > **Demonstration only.** The sample issues, commits, pull request and milestones demonstrate how progress can be reviewed. They do not represent completed MVP development, client approval, validated matching quality, or an agreed delivery schedule.
 
