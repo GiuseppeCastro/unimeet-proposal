@@ -1,0 +1,10 @@
+{
+  "example_only": true,
+  "profile_id": "demo-student-001",
+  "desired_degree": "bachelor",
+  "study_interests": ["computer_science", "business"],
+  "preferred_study_countries": ["IT", "DK"],
+  "teaching_languages": ["en"],
+  "annual_tuition_budget_eur": 8000,
+  "intended_start_year": 2027
+}
