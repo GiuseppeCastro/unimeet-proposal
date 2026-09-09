@@ -23,3 +23,9 @@ There are no names, email addresses, phone numbers, documents or real student re
 - How should missing or uncertain preferences appear in the user journey?
 
 These questions remain open for alignment with Davide; no client answers are invented here.
+
+## Reproduce the documentation check
+
+From the repository root, run `python3 examples/check_fixture.py`.
+
+The check parses the fixture, checks the documented field names, requires an explicit synthetic flag and performs a few basic structure checks. It does not validate admissions eligibility, programme suitability, matching quality, privacy compliance or a production API contract.
